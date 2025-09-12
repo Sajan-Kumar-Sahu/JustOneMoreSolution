@@ -1,5 +1,7 @@
 package DSA_Problems.Sortings;
 
+import DSA_Problems.Utilities.Utility;
+
 public class QuickSort {
 
     public static void main(String[]args){

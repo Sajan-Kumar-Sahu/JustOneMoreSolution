@@ -1,5 +1,7 @@
 package DSA_Problems.Sortings;
 
+import DSA_Problems.Utilities.Utility;
+
 public class InsertionSort {
     public static void main(String[]args){
         int[] arr = {5,4,10,1,6,2};

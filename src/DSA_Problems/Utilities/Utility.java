@@ -1,4 +1,4 @@
-package DSA_Problems.Sortings;
+package DSA_Problems.Utilities;
 
 public class Utility {
 
